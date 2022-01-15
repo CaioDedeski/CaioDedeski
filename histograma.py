@@ -1,3 +1,7 @@
+'''
+Programa que faz um histograma com os dados do arquivo gravidade.dat
+'''
+
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy import loadtxt
